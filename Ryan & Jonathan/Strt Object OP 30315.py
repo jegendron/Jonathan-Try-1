@@ -1,5 +1,5 @@
 myList = ['jim', 'james', 23, 12, 'car', 'bike']
-
+#
 for i, x in enumerate(myList):
     print('variable i is: {} and x is: {}'.format(i, x))
 #enumerate function.......................    
